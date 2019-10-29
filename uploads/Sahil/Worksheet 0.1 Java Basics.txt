@@ -1,0 +1,19 @@
+Worksheet 0.1: Java Basics
+
+1.a. int
+1.b. int or double (double if in scientific notation)
+1.c. boolean
+1.d. char
+1.e. boolean
+
+3. 
+Midpoint: (18.7, 38.1)
+
+4. 
+13
+11
+9
+2
+
+5.
+Go0d!

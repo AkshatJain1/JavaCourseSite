@@ -1,0 +1,73 @@
+Major - You will be able to perform multiple functions through a calculator. Your calulcator must be able to do:
+
+Addition
+Subtraction
+Division
+Multiplication
+Modulus
+Exponents
+Absolute Value
+Round up a decimal number
+Round down a decimal number
+Take max of two numbers
+Take min of two numbers
+Square root
+Random Number ( from any range - ex: 0 to 100 )
+
+
+Each one of these functions must be a separate method that you will call in your code.
+
+Example:
+
+Welcome to Math Calculator
+
+What would you like to do?
+
+1. Addition
+2. Subtraction
+3. Division
+4. Multiplication
+5. Modulus
+6. Exponents
+7. Absolute Value
+8. Round up a decimal number
+9. Round down a decimal number
+10. Take max of two numbers
+11. Take min of two numbers
+12. Square root
+13. Random Number ( from any range - ex: 0 to 100. This must be an integer)
+14. Exit
+
+Enter menu option: 8
+
+You chose round up a decimal number. Enter a decimal number to round up: 5.9
+
+5.9 rounded up is 6.0
+
+What would you like to do?
+
+1. Addition
+2. Subtraction
+3. Division
+4. Multiplication
+5. Modulus
+6. Exponents
+7. Absolute Value
+8. Round up a decimal number
+9. Round down a decimal number
+10. Take max of two numbers
+11. Take min of two numbers
+12. Square root
+13. Random Number ( from any range - ex: 0 to 100. This must be an integer)
+14. Exit
+
+Enter menu option: 4
+
+You chose multiplication.
+
+Enter the first number to multiply: 15
+Enter the second number to multiply: 3
+
+15 * 3 is 45.
+
+

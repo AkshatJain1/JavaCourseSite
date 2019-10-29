@@ -1,0 +1,154 @@
+For each of the following, correct the syntax errors.
+ 1.
+  	if (x > 25.0){
+        	(y = x); 
+	}    
+	
+	else{       
+		(y == z);
+	}
+ 
+
+___________________________________________________________________________________________________________________________
+
+2.  	if (x > 0){
+    	System.out.println("positive " + x);
+	}
+    	else{        
+    	System.out.println("negative " + x);
+	} 
+
+___________________________________________________________________________________________________________________________ 
+What is the output of each of the following statements? Assume that x = 5, y = 2, z = 10, and temp = 0
+___________________________________________________________________________________________________________________________ 
+ 
+3.  if (y >= x)
+        y = z;
+        System.out.println(x + "  " + y + "  " + z);
+
+OUTPUT: 17
+
+___________________________________________________________________________________________________________________________
+
+4.  if (y >= x) {
+        y = z;        
+	System.out.println(x + "  " + y + "  " + z);     
+} 
+
+NO OUTPUT FOR NUMBER 4
+
+___________________________________________________________________________________________________________________________
+
+
+5.  if (x >= 6)
+    System.out.println(x + y);
+    System.out.println(x + y); 
+
+OUTPUT:   7
+	  7
+
+___________________________________________________________________________________________________________________________
+
+6. if (x + y > z)
+       x = y + z;     
+    else        
+       x = y - z;     
+       System.out.println(x + "  " + y + "  " + z);
+
+
+x= -8
+
+OUTPUT: 4
+
+
+___________________________________________________________________________________________________________________________ 
+ 
+
+Write if statements for the following problems. Use meaningful variable names. You can assume that the variables you use 
+are declared and have been initialized.
+___________________________________________________________________________________________________________________________ 
+
+
+7.      If a variable angle is equal to 90 degrees, print the message "right angle." 
+	Otherwise print the message "not a right angle".
+
+
+//variable x shows angle measure
+
+
+
+
+int x;
+
+if (x==90){
+	system.out.println("Right angle");
+	}
+else{
+	system.out.println("Not a right angle");
+}
+
+
+___________________________________________________________________________________________________________________________
+
+
+8. If the difference between variables temp1 and temp2 is more than 2.3, set the variable approx to (temp1 - temp2)* factor. 
+
+int temp1;
+int temp2;
+double approx;
+double factor;
+
+	if((temp1-temp2)>2.3)
+	approx==(temp1-temp2)*factor
+
+___________________________________________________________________________________________________________________________
+	
+
+
+
+ 9.  A student at State U is ready to graduate if he or she has completed at least 122 credits.
+     Write the statements to test whether a student is ready to graduate, and print a message telling whether 
+     he or she is ready
+
+		
+		inport java.util.Scanner;
+
+		Scanner kb= new Scanner(System.in);
+		System.out.println("Do You Have At Least 122 Credits?(answer -yes or no-)");
+		String ans = kb.nextString;
+	
+		if (ans==yes){
+		System.out.println("Great! You are ready to graduate!");
+		}
+		else if (ans==no){
+		System.out.println("You need 122 credits before you graduate!");
+		}
+		else{
+		System.out.println("I don't Understand...");
+		}
+___________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

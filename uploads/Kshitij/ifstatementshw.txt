@@ -1,0 +1,38 @@
+NOTE: anything in between \\ is what i have changed
+1.
+if x > 25.0
+  y = x\;\
+else
+  y = z;
+
+2.
+if (x \>\ 0);
+  System.out.println("positive " + x);
+else;
+  System.out.println("negative " + x);
+
+3. 5 2 10
+
+4. 5 2 10
+
+5. 7
+
+6. -8 2 10
+
+7. 
+if (angle == 90) {
+   System.out.println("right angle");
+} else {
+   System.out.println("not a right angle");
+}
+
+8.
+if (temp1 - temp2 > 2.3 || temp1 - temp2 < -2.3) {
+   int approx = (temp1 - temp2) * factor;
+}
+
+9.
+if (studentCredits >= 122) {
+   System.out.println("Student is ready to graduate!");
+} else {
+   System.out.println("Student needs more credits!");

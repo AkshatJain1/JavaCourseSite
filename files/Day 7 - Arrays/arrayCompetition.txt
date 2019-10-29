@@ -1,0 +1,20 @@
+1. Write a Java program to sort a boolean array and a string array of size 5 each.
+
+2. Write a Java program to sum values of a 1-D int array.
+
+3. Write a Java program to print the following grid:
+
+Expected Output :
+
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -        
+                                                                              
+
+4. Write a Java program to calculate the average value of 1-D double array elements.
+
+
+5. Write a Java program to test if a char 2D array contains a specific value - print its row and column.

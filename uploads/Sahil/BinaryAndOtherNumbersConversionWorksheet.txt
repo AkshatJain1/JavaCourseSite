@@ -1,0 +1,59 @@
+Binary and Other Numbers Conversion Worksheet
+Be sure to show all of your work!
+1. Convert 15 10 to base 2:
+	15/2= 7 r1
+	7/2= 3 r1
+	3/2=1 r1
+	1/2=0 r1
+	Answer: 0000 1111
+2. Convert 15 10 to base 16:
+	15/16=0 r15
+	Answer: f
+3. Convert 63 10 to base 2:
+	63/2=31 r1
+	31/2=15 r1
+	15/2=7 r1
+	7/2= 3 r1
+	3/2=1 r1
+	1/1=1 r0
+	Answer: 0001 1111
+4. Convert 64 10 to base 2:
+	64/2=32 r0
+	32/2=16 r0
+	16/2=8 r0
+	8/2=4 r0
+	4/2=2 r0
+	2/2=1 r0
+	1/2=0 r1
+	Answer: 0100 0000
+5. Convert 65 10 to base 2:
+	65/2=32 r1
+	32/2=16 r0
+	16/2=8 r0
+	8/2=4 r0
+	4/2=2 r0
+	2/2=1 r0
+	1/2=0 r1
+	Answer: 0100 0001
+6. Convert 63 10 to base 16:
+	63/16=48 r15
+	48/16=3 r0
+	3/16=0 r3
+	Answer: 30f
+7. Convert 64 10 to base 16:
+	64/16=4 r0
+	4/16=0 r4
+	Answer: 40
+8. Convert 65 10 to base 16:
+	65/16=4 r1
+	4/16=0 r4
+	Answer: 41
+9. Convert 1100 1100 2 to base 10:
+	128+64+0+0+8+4+0+0=204
+10. Convert 0x1CD 16 to base 10:
+	256+12*16+13=4301
+11. Convert 1010 1011 to base 16 directly (do not convert to base 10 first):
+	Answer: ab
+Compare the answer in #3 to #6. Comment on how base 16 and base 2 interact and are related.
+Be sure to include how four bits in base 2 are related to 1 base 16 digit.
+	Answer: Each 4 digits in binary is 1 digit in hexadecimal.

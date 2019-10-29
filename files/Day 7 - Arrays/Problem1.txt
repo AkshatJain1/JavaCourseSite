@@ -1,0 +1,12 @@
+Write a program that takes in a String from the user, then adds upp all its letters' ASCII numbers.
+
+Print the summation.
+
+It must follow the example below.
+
+
+Example:
+
+What is your word? ABC
+
+65(A) + 66(B) + 67(C) = 198(ABC)

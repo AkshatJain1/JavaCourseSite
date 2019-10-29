@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Employees</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run/>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Employee.java</path>
+			</fileitem>
+			<fileitem>
+				<path>HarvardLawyer.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Janitor.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lawyer.java</path>
+			</fileitem>
+			<fileitem>
+				<path>LegalSecretary.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Main.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Marketer.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Secretary.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

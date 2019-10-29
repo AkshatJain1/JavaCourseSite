@@ -1,0 +1,46 @@
+Minor - Copy this code to a java file called NumbersAndMath
+
+public class NumbersAndMath
+{
+	public static void main( String[] args )
+	{
+		System.out.println( "I will now count my chickens:" );
+
+		System.out.println( "Hens " + ( 25 + 30 / 6 ) );
+		System.out.println( "Roosters " + ( 100 - 25 * 3 % 4 ) );
+
+		System.out.println( "Now I will count the eggs:" );
+
+		System.out.println( 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6 );
+
+		System.out.println( "Is it true that 3 + 2 < 5 - 7?" );
+
+		System.out.println( 3 + 2 < 5 - 7 );
+
+		System.out.println( "What is 3 + 2? " + ( 3 + 2 ) );
+		System.out.println( "What is 5 - 7? " + ( 5 - 7 ) );
+
+		System.out.println( "Oh, that's why it's false." );
+
+		System.out.println( "How about some more." );
+
+		System.out.println( "Is it greater? " + ( 5 > -2 ) );
+		System.out.println( "Is it greater or equal? " + ( 5 >= -2 ) );
+		System.out.println( "Is it less or equal? " + ( 5 <= -2 ) );
+	}
+}
+
+Tasks: 
+
+1.Above each line, use two slashes // to write a comment to yourself explaining what the line does.
+
+2. Notice the math seems "wrong"? There are no fractions, only whole numbers. Why is this? 
+
+3. Rewrite NumbersAndMath.java to use decimals so it's more accurate (hint: 20.0 is a double).
+
+
+
+
+I got this assignment from: https://programmingbydoing.com/a/numbers-and-math.html
+
+Look at their FAQ to reinforce knowledge.

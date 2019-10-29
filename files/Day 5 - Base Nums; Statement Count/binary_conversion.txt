@@ -1,0 +1,19 @@
+Write a program which takes in a number (in decimal) from the user and then converts it to binary.
+
+Keep looping this, and use methods as applicable.
+
+When they enter a negative number, exit loop and end program.
+
+Example:
+
+Enter a number: 23
+23 in binary is 010111
+
+Enter a number: 5
+101
+
+Enter a number: -1
+
+Goodbye :)
+
+

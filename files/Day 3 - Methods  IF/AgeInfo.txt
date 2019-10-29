@@ -1,0 +1,34 @@
+Minor - Take in a user's age. Output whether they are eligible to vote.
+
+If they are, tell them how many years they were eligible to vote and if they aren't tell them how many years until they can start voting.
+
+
+Then output if their age would be even or odd next year.
+
+Finally, if the user is eligible to vote, tell the user how many elections they have voted in.
+
+Hint: Keep in mind that elections are held every four years, and that the last election was in 2016. And, ASSUME THE CURRENT YEAR IS ALWAYS 2018
+
+
+Example:
+
+Enter your age: 15
+
+Sorry, you are short 3 years of being able to vote.
+
+Next year, your age will be an even number. Isn't that interesting?
+
+
+
+Example 2:
+
+Enter your age: 28
+
+Wow, you have been voting for 10 years!
+
+Next year, your age will be an odd number. Cool!
+
+So far, you have participated in 3 elections. That is 3 more than me!
+
+
+Note: Be creative with your outputs. Don't use the same exact language as I did.

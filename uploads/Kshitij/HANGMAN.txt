@@ -1,0 +1,137 @@
+HANGMAN CLASS
+
+import java.util.ArrayList;
+public class HangmanClass {
+        public static final int MAX_GUESSES = 6;
+        private ArrayList<Character> sentence;
+        private ArrayList<Character> letterGuesses;
+        private int wrongGuesses;
+        public HangmanClass(String main_sentence) {
+            this.sentence = new ArrayList<>();
+            this.letterGuesses = new ArrayList<>();
+            for (int a = 0; a < main_sentence.length(); a++) {
+                char letterInSentence = main_sentence.charAt(0);
+                this.sentence.add(letterInSentence);
+            }
+        }
+        public HangmanClass() {
+            wrongGuesses = 0;
+        }
+        //----------------------------------------------------------------------------------------------------------------
+        //methods
+        public int getMAX_GUESSES() {
+            return MAX_GUESSES;
+        }
+        public ArrayList<Character> getSentence() {
+            return sentence;
+        }
+        public ArrayList<Character> getLetterGuesses() {
+            return letterGuesses;
+        }
+        public int getWrongGuesses() {
+            return wrongGuesses;
+        }
+        public void setCorrect(ArrayList<Character> correct) {
+            this.sentence = sentence;
+        }
+        public void setUserGuess(ArrayList<Character> userGuess) {
+            this.letterGuesses = letterGuesses;
+        }
+        public void setWrongGuesses(int wrongGuesses) {
+            this.wrongGuesses = wrongGuesses;
+        }
+        public String toString() {
+            StringBuilder builder = new StringBuilder(sentence.size());
+            for(Character ch: sentence)
+            {
+                builder.append(ch);
+            }
+            return builder.toString();
+        }
+
+        //other methods
+        //guess(char letter)
+        //returns true if letter is in the sentence
+        //returns false if it is not, increases wrongGuesses
+        //adds letter to guesses
+        public boolean guess(char letter) {
+           boolean inSentence = sentence.contains(letter);
+           letterGuesses.add(letter);
+           if (inSentence == true) {
+               return true;
+           } else {
+               wrongGuesses++;
+               return false;
+           }
+        }
+        //isGuessed(char letter)
+        //returns true if letter is already guessed
+        //returns false if letter isn't already guessed
+        public boolean isGuessed(char letter) {
+            return letterGuesses.contains(letter);
+        }
+
+        //sentence()
+        //returns the sentence that the user is going to see
+        //Hint: go through each Character in your sentence
+        //if the letter is in the guessedLetters ArrayList
+        //add it to an ongoing String        //otherwise if its not in guessedLetters
+        //, add an underscore to
+        public void sentence(ArrayList<Character> sentence, char letter) {
+            String user_sentence = "";
+            for (int i = 0; i < sentence.size(); i++) {
+                letter = sentence.get(i);
+                boolean hasBeenGuessed = isGuessed(letter);
+                if (hasBeenGuessed) {
+                    user_sentence += letter;
+                } else {
+                    user_sentence += " _ ";
+                }
+            }
+        }
+
+        //guessesLeft
+        //returns the number of guesses they have left
+        public int guessesLeft() {
+            return MAX_GUESSES - wrongGuesses;
+        }
+
+        //won()
+        //returns true if sentence() doesn't have any underscores
+        //else returns false. they did not win
+        public String sentence() {
+            return "";
+        }
+        public boolean won() {
+            return !sentence().contains("_");
+        }
+
+}
+
+HANGMAN MAIN
+
+import java.util.Scanner;
+import java.util.ArrayList;
+public class HangmanMain {
+    public static void main(String[] args) {
+        Scanner keyboard = new Scanner(System.in);
+        HangmanClass game = new HangmanClass("Hello my name is java");
+        do {
+            System.out.println(game.sentence());
+            System.out.println(game.getLetterGuesses());
+
+            System.out.println("You have " + game.guessesLeft() + " guesses left!");
+            char letter;
+            do {
+                System.out.print("Guess a letter: ");
+                letter = keyboard.nextLine().charAt(0);
+            } while(game.isGuessed(letter));
+        } while (!game.won() || game.guessesLeft() != 0);
+        if (game.won()) {
+            System.out.println("Congrats, you won!");
+        }
+        if (game.guessesLeft() == 0) {
+            System.out.println("Sucks, you lost!");
+        }
+    }
+}

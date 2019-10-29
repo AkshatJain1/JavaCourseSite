@@ -1,0 +1,10 @@
+Other - Take the average of three numbers that you ask a user for.
+
+
+Sample: 
+
+What is your first number? 1.1
+What is your second number? 2.2
+What is your third number? 5.5
+
+( 1.1 + 2.2 + 5.5 ) / 2 is... 4.4

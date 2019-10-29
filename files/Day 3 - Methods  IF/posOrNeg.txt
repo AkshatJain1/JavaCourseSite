@@ -1,0 +1,7 @@
+Minor - Take in a number from the user and output if it is positive or negative.
+
+Ex:
+
+Enter a Number: 2
+
+2 is a postive number.

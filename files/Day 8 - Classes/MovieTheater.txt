@@ -1,0 +1,57 @@
+Major - A movie place shows 3 movies at a time. Keep a database that contains the movies (When the program starts, initialize the movies to whatever you want). 
+
+Every movie class will have the following attributes:
+
+Name (String)
+Price (int)
+Release Date (String)
+Review (char)
+
+Make constructor which initializes all of the follwing attributes.
+
+Make all getters and setters.
+
+Make a toString() method.
+
+
+
+
+Follow this example:
+
+1. Print Movies
+2. Edit Movies
+3. Exit
+Enter Option: 1
+
+Name: Life is good - Price: $10 - Release Date: June 12, 2018 - Review: D
+Name: Avengers 2 - Price: $15 - Release Date: March 4, 2017 - Review: B
+Name: Robot Fries - Price: $6 - Release Date: December 22, 2012 - Review: A
+
+
+1. Print Movies
+2. Edit Movies
+3. Exit
+Enter Option: 2
+
+Choose movie to edit:
+1. Life is good
+2. Avengers 2
+3. Robot Fries
+Enter movie option: 2
+
+What do you want to edit:
+1. Name 
+2. Price
+3. Release Date
+4. Review
+Enter edit option: 4
+
+Enter new review for Avengers 2: A
+
+
+1. Print Movies
+2. Edit Movies
+3. Exit
+Enter Option: 3
+
+Goodbye.

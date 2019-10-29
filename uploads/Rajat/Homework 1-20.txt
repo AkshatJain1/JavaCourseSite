@@ -1,0 +1,198 @@
+1.
+
+public void powersOfTwo ()
+ 	{    int multiple = 1;
+    	for 
+		(int x=1; x <= 10; x++)
+    	{       
+		multiple *= 2;
+		       System.out.println (multiple);    
+	} 
+}
+_________________________________________________
+
+2.
+
+public void alarm (int number)
+{    
+		for (int x =1; x <= number; x++)
+		     	 System.out.println ("Alarm!"); 
+		     	 } 
+
+_____________________________________________________
+3.
+public int sum100 ()
+ {    
+ 	int total = 0;
+ 	    for (int count=1; count <= 10; count++)
+ 	           total += count;    return total;
+ 	            }
+______________________________________________________
+
+5.
+
+
+public int maxOfTwo (int num1, int num2)
+ {    
+ int result = num1;
+     if (num2 > num1)
+            result = num2;
+                return result;
+                 }
+                 
+______________________________________________                  
+6.
+
+public boolean larger (double num1, double num2)
+{
+ return (num1 > num2);
+ if(num1>num2)
+ 		return ("true");
+ else
+ 		return("False");
+}
+______________________________________________
+
+8.
+
+
+public boolean evenlyDivisible (int x, int y)
+{
+ return ( (x%y)=0 || (x%y)=0 );
+}
+
+______________________________________________
+
+9.
+
+public double average (int x, int y, int z)
+{
+ return ((x+y+z) / 3.0);
+}
+
+______________________________________________
+
+10.
+
+public double average (int x, int y, int z, int v)
+{
+ return ((x+y+z+v) / 4.0);
+}
+_______________________________________________
+
+11.
+
+public double average (int v, int w, int x,
+ int y, int z)
+{
+ return ((v+w+x+z+y) / 5.0);
+ }
+ 
+ _______________________________________________
+ 
+ 12.
+ 
+ 
+ public String multiConcat (String x, int y)
+{
+ String result = ("");
+ for (v=1; v <= y; v++)
+ result + x;
+ return result;
+}
+
+//i dont know this one was hard
+
+________________________________________________
+
+
+14.
+
+
+public boolean isAlpha (char acnii)
+{
+ return ("TRUE") if ( (acnii >= 'a' && acnii <= 'z')||(acnii >= 'A' && acnii <= 'Z') );
+}
+
+_________________________________________________
+
+18.
+
+public boolean isIsoceles (int x, int x2, int x3)
+{
+ return ( (x1 == x2 && x3 != x1) ||
+ (x2 == x3 && x1 != x2) ||
+ (x1 == x3 && x2 != x1) );
+}
+
+
+_________________________________________________
+
+19.
+public int randomInRange (int x, int y)
+{
+ return ((int) (Math.random()*(x-y+.5)) + low);
+}
+_________________________________________________
+20.
+
+public int randomInRange (int xx)
+{
+ return ((int) (15()*xx) - 1);
+}
+_________________________________________________
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

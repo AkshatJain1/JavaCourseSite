@@ -1,0 +1,6 @@
+Enter an integer:
+Enter a double value:
+Enter an integer:
+Enter a double value:
+3.14 is an approximation of PI
+3.14 is also an approximation of PI

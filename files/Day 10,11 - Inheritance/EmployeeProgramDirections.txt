@@ -1,0 +1,66 @@
+Main.java
+
+// make employees and test as you wish
+// make sure everything works
+
+Employee.java
+
+//this type of coding is a very basic way of coding
+//no attribites
+//no construcors
+//just methods
+
+//main will call on one of these methods i.e. getHours, that method will 
+	//return the
+	//number number of hours a general employee has to work.
+
+//this is all for general employees
+
+//methods
+	//getHours()
+		//avg employee works 40 hrs a week
+	//getSalary()
+		//avg employee earns $40,000
+	//getVacationDays()
+		//avg employee gets 10 vac days
+	//getVacationFormColor()
+		//normal employee's vacation form is the color yellow
+	//toString()
+		//return "I'm an average Joe."
+
+Marketer.java
+
+//make 50k
+//toString() that prints "Act now, while supplies last!"
+
+Lawyer.java
+
+//5 more vacation days
+//pink color vacation form
+//toString() return out "I'll see you in court"
+
+HarvardLawyer.java
+
+//make 20% more money than norm lawyer
+//3 days more vac
+//have to fill out four vacation forms
+	//i.e. if norm lawyer vacation form is "pink", this 
+	//will print out "pinkpinkpinkpink"
+
+Janitor.java
+
+//work 80h a week
+//make 30k
+//5 days vacation
+//toString() prints "Workin' for the man."
+
+Secretary.java
+
+// method called takeDictation
+	//takes in text as a paramter and prints out
+	//"Taking dictation of text: " concatenated to the text paramter
+
+LegalSecretary.java
+
+//5,000 more salary 
+//toString() prints "I could file all day!"

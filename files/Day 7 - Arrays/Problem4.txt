@@ -1,0 +1,18 @@
+Write a program that creates a 2D int array with user input.
+
+Take in the number of rows and columns from the user and ask the user for each value.
+
+At the end, print out the resulting array.
+
+Example:
+
+Rows?: 2
+Columns?: 2
+
+Position (0,0)?: 6
+Position (0,1)?: 2
+Position (1,0)?: 4
+Position (1,1)?: 0
+ 
+6 2
+4 0

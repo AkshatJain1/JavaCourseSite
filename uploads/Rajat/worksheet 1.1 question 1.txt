@@ -1,0 +1,34 @@
+1)	System.out.println();
+ 	System.out.print(1 + 2.14);
+	System.out.println(" is an approximation of PI");
+ 	System.out.print(4 - 0.86);
+ 	System.out.println(" is also an approximation of PI");
+
+	1 + 2.14 
+	is an approximation of PI
+	4 - 0.86
+	is also an approximation of PI
+
+
+2)	System.out.print("\nYou can take " + 20.22);
+	System.out.println(" friends to the movies!");
+
+	You can take 20.22
+	friends to the movies!
+
+
+4)		import java.util.Scanner; 
+ 	public class Worksheet{
+ 		public static void main(String[] args){
+ 			String name;
+ 			
+ 			
+ 			Scanner kb = new Scanner(System.in);
+ 			System.out.println("What is your name? ");
+			name=kb.nextLine();
+			
+			System.out.println(name+", you are a wee little one!!! ");
+			
+}
+} 
+

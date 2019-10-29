@@ -1,0 +1,6 @@
+Create an array with these values:
+
+3,6,0,1,0,3
+
+
+Then, move the zeroes to the front of the array and print out the resulting array.

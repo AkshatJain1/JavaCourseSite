@@ -1,0 +1,39 @@
+6. Missing brackets
+7. if(variableAngle = 90) {
+     System.out.println("right angle");
+  }
+     else {
+         System.out.println("not a right angle");
+     }
+8. if(difference > 2.3) {
+     variable = (temp1 - temp2) * factor;
+   }
+9. if(student >= 123) {
+     System.out.println("ready to graduate");
+   }
+     else {
+           System.out.println("not ready to graduate");
+   }
+1. curly brackets, parenthesis
+2. No actually im here
+4. if(taxCode == T) {
+   T = (T + taxRate * Price);
+   }
+5. Scanner yo = new Scanner(System.in)
+   System.out.println("A double value is needed");
+   String x = yo.nextline();
+   System.out.println("A second double value is needed");
+   String y = yo.nextLine();
+   System.out.println("I will find the sum" + x + y);
+6. if(currentNumber = odd) {
+   value = 3 * currentNumber + 1;
+   }
+   else { 
+        value = currentNumber
+   }
+7. if(int year = leapYear) {
+   leapYear = true;
+   }
+8. if(int distance = 100) {
+   doubel value = 5.00;
+   }

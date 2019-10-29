@@ -1,0 +1,20 @@
+Write a program that does these actions listed below. USE AT LEAST 2 METHODS IN THIS PROGRAM.
+
+1. Allow user to input a name. Output name 10 times.
+
+2. Then, allow user to enter a number (integer), but keep asking them until they enter a number above 5.
+
+3. Using a loop, output the multiplication table (up to 10) of 4. Example:
+
+   4 x 1 = 4
+   4 x 2 = 8
+   4 x 3 = 12
+   4 x 4 = 16
+   ...
+
+   You must use a loop for this to gain credit.
+
+4. Ask the user to enter a password in numbers. Display “Access Granted” if the password is correct or “Access Denied” if incorrect. Loop until the password is entered correctly.
+
+
+

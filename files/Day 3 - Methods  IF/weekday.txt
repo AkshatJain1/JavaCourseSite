@@ -1,0 +1,7 @@
+Minor - User enters a number, outputs the corresponding weekday.
+
+Example:
+
+Enter a (whole) number: 4
+
+The 4 weekday is Thursday

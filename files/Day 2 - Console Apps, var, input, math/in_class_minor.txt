@@ -1,0 +1,10 @@
+minor - simple console app that asks users about their preferences, 
+
+	has to include all 4 data types at least once. 
+	Ask for 7 preferences.
+	Cannot use more than 2 data types at a time.
+
+	At the end, output a summary of their preferences.
+
+
+You will be graded based on creativity :)

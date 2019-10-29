@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>SchoolRecords</label>
+	</settings>
+	<users>
+		<user>
+			<path>SchoolRecords.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>SchoolRecords.jcp</path>
+		</project>
+	</projects>
+</workspace>

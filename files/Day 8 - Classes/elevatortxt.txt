@@ -1,0 +1,34 @@
+       write a class Elevator that has:
+
+        max floors
+	current floor
+	num of people
+	weight limit
+	current weight
+	manufacturingCompany
+	cost (of the elevator)
+
+
+
+
+
+     in the main class, ask the user how they want to create their elevator - how many floors it will         have, its weight limit, manufacturing company, cost
+
+     then loop to manage people coming in/out. ex:	
+     1. Person in
+     2. Person out
+     3. Floor up
+     4. Floor down
+     Enter option: 1
+     What is the weight of the person: 150
+
+     1. Person in
+     2. Person out
+     3. Floor up
+     4. Floor down
+     Enter option: 3
+     The floor is now 4     
+
+     Keep a track of the weight of the elevator and notify the user if weight limit is within 100           pounds of being reached (you would have to ask the weight of each person going in/out)
+
+  

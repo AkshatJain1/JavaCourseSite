@@ -1,0 +1,194 @@
+Methods Worksheet:
+This assignment was very difficult. Just saying.
+
+1. 
+public static double powersOfTwo() {
+	double pow1 = Math.pow(2, 1);
+	System.out.println(pow1);
+	double pow2 = Math.pow(2, 2);
+	System.out.println(pow2);
+	double pow3 = Math.pow(2, 3);
+	System.out.println(pow3);
+	double pow4 = Math.pow(2, 4);
+	System.out.println(pow4);
+	double pow5 = Math.pow(2, 5);
+	System.out.println(pow5);
+	double pow6 = Math.pow(2, 6);
+	System.out.println(pow6);
+	double pow7 = Math.pow(2, 7);
+	System.out.println(pow7);
+	double pow8 = Math.pow(2, 8);
+	System.out.println(pow8);
+	double pow9 = Math.pow(2, 9);
+	System.out.println(pow9);
+	double  pow10 = Math.pow(2, 10);
+	System.out.println(pow10);
+	return 0.0;
+}
+
+2.
+Ok, I don't understand this question.
+
+3.
+public static int sum100() {
+	int x = 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10;
+	System.out.println(x);
+	return x;
+}
+
+4.
+public static int inBetween(int x, int y) {
+	for (int i = x; i < y; i++) {
+		int num = 0;
+		num = num + i;
+		System.out.println(num);
+	}
+	return 0;
+} 
+
+5.
+public static int maxOfTwo(int x, int y) {
+	 if (x > y) {
+	 	int answer = x;
+	 	System.out.println("The maximum is " + answer + "!");
+		return answer;
+	 } else if (x < y) {
+	 	int answer = y;
+	 	System.out.println("The maximum is " + answer + "!");
+		return answer;
+	 } else {
+	 	System.out.println("They're the same number!");
+	 	return 0;
+	 }
+}
+
+6.
+
+public static double larger(double x, double y) {
+	if (x > y) {
+		return true;
+	else if (y > x) {
+		return false;
+	}
+}
+	
+7.
+public static void main(String[] args) {
+		Scanner keyboard = new Scanner(System.in);
+		System.out.print("Enter a sentence: ");
+		String aCounter = keyboard.nextLine();
+		int something = howManyA(aCounter);
+	}
+	public static int howManyA(String aCounter) {
+		int count = 0;
+		String string = aCounter;
+		String s = aCounter;
+		char c = 'a';
+		System.out.println(s.replaceAll("[^"+ c +"]", "").length());
+		return 0;
+
+	}
+
+8.
+public static boolean divisible(int x, int y) {
+	if (x % y == 0 || y % x == 0) {
+		return true;
+	} else {
+		return false;			
+	}
+}
+
+9.
+public static double average(double x, double y, double z) {
+	double answer = x + y + z;
+	double answer = answer / 3;
+	return answer;
+}
+
+10.
+public static double average(double w, double x, double y, double z) {
+	double answer = w + x + y + z;
+	double answer = answer / 4;
+	return answer;
+}
+
+11.
+public static double average(double v, double w, double x, double y, double z) {
+	double answer = v + w + x + y + z;
+	double answer = answer / 5;
+	return answer;
+}
+
+12.
+	public static String multiContact(String x) {
+		String repeated = String.repeat(x, 3);
+		System.out.println(repeated);
+		return repeated;
+	}
+13.
+public static String multiContact(String x) {
+		String repeated = String.repeat(x, 2);
+		System.out.println(repeated);
+		return repeated;
+	}
+14.
+public static boolean isAlpha(char x) {
+	if (x.isUppercase() || or x.isLowerCase()) {
+		return true;
+	} else {
+		return false;
+	}
+}
+
+15.
+public static int validate(int x, int y, int z) {
+	if (z > x && z < y) {
+		return z;
+	} else { 
+		System.out.println("Try again: ");
+		Scanner keyboard = new Scanner(System.in);
+		int z = keyboard.nextInt();
+		if (z > x && z < y) {
+			return z;
+		} else { 
+			System.out.println("Try again: ");
+			Scanner keyboard = new Scanner(System.in);
+			if (z > x && z < y) {
+			return z;
+			} else { 
+				System.out.println("Try again: ");
+				Scanner keyboard = new Scanner(System.in);
+
+16.
+public static boolean floatEquals(double x, double y, double z) {
+	if (absolute(x - y) <= z) {
+		return true;
+	} else {
+		return false;
+
+17.
+I dont get this one. Most of these questions ask us to use stuff we havent been taught yet.
+
+18.
+public static boolean isIscocelles(int x, int y, int z) {
+	if ((x == y && x != z) || (x == z && y != z)) {
+		return true;
+	} else {
+		return false;
+
+19.
+public static int random(int x, int y) {
+	Random apple = new Random();
+	int answer = apple.nextInt(x, y);
+	return answer;
+}
+
+20.
+public static int random(int x) {
+	Random apple = new Random();
+	int answer = apple.nextInt(x);
+	return answer;
+}
+
+
+	

@@ -1,0 +1,10 @@
+minor - draw, all with print statements:
+
+	a symbol from your favorite tv show.
+
+	after the prints,
+	at the end: 
+
+print what your favorite tv show is, 
+what the symbol represents, 
+why is it relevant to life in general... theme? (I'm just trying to get you ready for HS, don't hate)

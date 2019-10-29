@@ -1,0 +1,15 @@
+minor - 
+
+1. What is the difference between high level languages and low level languages?
+
+2. Teresa is an incoming CS student. Should her beginning language be Assembly or BASIC?
+
+3. What IDE are we using? Why are IDE's useful to programmers?
+
+4. Explain the relationships between the following: 
+	Graphical Applications
+	Graphical User Interface
+	Applets
+	Console Applications
+
+5. Explain the different types of errors in your OWN words. What do you think will be the most common types of errors as a beginner? As an intermediate? As an expert? Why?

@@ -1,0 +1,15 @@
+1
+2
+3 - DO 1 to 10
+5
+6
+8
+9
+10
+11
+12 - The method multiConact does not take in an integer paramter. Concatenates to itself 3 times.
+14 - Hint: ASCII numbers
+16 - For exampl parameters: 14, 19, 1.1. 14 and 19 is not equal because its difference (2) is more than the tolerance (1.1)
+18
+19
+20

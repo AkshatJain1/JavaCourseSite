@@ -1,0 +1,93 @@
+Loops 16 - 24:
+
+16.
+int num = 0;
+do {
+	System.out.print("Enter a positive number: ");
+	num = keyboard.nextInt();
+} while (num <= 0);
+
+17.
+int num = 0;
+do {
+	System.out.print("Enter a even number: ");
+	num = keyboard.nextInt();
+} while (num % 2 != 0);
+
+18.
+	final int SENTINAL = 7;
+	int guess = 0;
+	while (guess != SENTINAL) {			
+		System.out.print("Enter the lucky number: ");
+		guess = keyboard.nextInt();
+	}
+
+19.
+final int SENTINAL = 0;
+int guess = 1;
+int product = 1;
+do {
+	System.out.print("Enter the lucky number: ");
+	guess = keyboard.nextInt();
+	if (guess == SENTINAL) {
+		break;
+	}
+	product = product * guess;
+} while (guess != SENTINAL);
+	System.out.println("The product of all your wrong guesses is " + product + "!");
+
+20.
+for (int x = 0; x <= 100; x++) {
+	if (x % 2 != 0) {
+		System.out.println(x);
+	}
+}
+
+21.
+for (int x = 300; x >= 3; x--) {
+	if (x % 3 == 0) {
+		System.out.println(x);
+
+	}
+}
+
+22.
+final int LOW = 1;
+final int HIGH = 2000;
+for (int x = LOW; x <= HIGH; x++) {
+	if (x % 4 == 0 && x % 5 != 0) {
+		System.out.println(x);
+	}
+}
+
+23.
+int number = 200;
+for (int x = 1; x <= number; x++) {
+	if (number % x == 0) {
+		System.out.println(x);
+	}
+}
+
+24.
+int num = 0;
+int highest = Integer.MIN_VALUE;
+int lowest = Integer.MAX_VALUE;
+for (int x = 1; x <= 10; x++) {
+	System.out.print("Enter a number: ");
+	num = keyboard.nextInt();
+	if (num > highest) {           
+ 		highest = num;
+ 	} else if (num < lowest) {             
+    		lowest = num;
+	}
+}
+System.out.println("Highest number is: " + highest);
+System.out.println("Lowest number is: " + lowest);
+
+
+
+
+	
+
+	
+

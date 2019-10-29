@@ -1,0 +1,184 @@
+Akshat attempted to upload letterFromJail.txt
+Akshat attempted to upload Discrimination.PNG
+Sahil uploaded 1.jpg
+Sahil uploaded Java Assignments.docx
+Akshat uploaded in_class_minor.txt
+Akshat uploaded variables_worksheet.docx
+Akshat uploaded Worksheet 0.1 - Basics.pdf
+Akshat uploaded assignment_major.txt
+Akshat uploaded assignment_minor.txt
+Akshat uploaded cc61.PNG
+Rajat uploaded Drawing.class
+Sahil uploaded AsciiDrawings.java
+Kshitij uploaded Practice1.java
+Sahil uploaded UserChoices.java
+Emil uploaded Simple_Console_App_Summer.java
+Kshitij uploaded Hwdraw.java
+Emil uploaded TV_Symbol.java
+Rajat uploaded practiceAGAIN.java
+Aayush uploaded H_W.java
+Adi uploaded Symbol.java
+Adi uploaded Console.java
+Dhruv uploaded hello world.java
+Arman uploaded Symbol.java
+Arman uploaded HelloWorld.java
+Arman uploaded CompSci HW.docx
+Soham uploaded worksheet 0.1 basic java.txt
+Mihir uploaded java basics.txt
+Sahil uploaded Worksheet 0.1 Java Basics.txt
+Kshitij uploaded OtherGradeAverage.java
+Dhruv uploaded worksheet 0.1 Java Basics.txt
+Rajat uploaded Variable Finished.docx
+Kshitij uploaded NumbersAndMath.java
+Sahil uploaded Worksheet 1.1 Scanner Practice.txt
+Emil uploaded AverageCalculator.java
+Emil uploaded NumbersAndMath.java
+Emil uploaded dataBlender.java
+Kshitij uploaded OtherGradeAverage.java
+Arman uploaded Day 3 HW.docx
+Arman uploaded Worksheet 1.1.docx
+Sahil uploaded AverageOf3Numbers.java
+Kshitij uploaded majorGrade.java
+Arman uploaded Average.java
+Sahil uploaded DataBlender.java
+Kshitij uploaded Worksheet 0.1.txt
+Arman uploaded NumbersAndMath.java
+Kshitij uploaded Worksheet1.1.txt
+Arman uploaded DataBlender.java
+Sahil uploaded NumbersAndMath.java
+Rajat uploaded worksheet 1.1 question 1.txt
+Adi uploaded numbers.java
+Rajat uploaded Average.java
+Rajat uploaded major_grade.java
+Rajat uploaded NumbersAndMath.java
+Dhruv uploaded average of 3 numbers part 2.java
+Soham uploaded scannerpractice java.txt
+Soham uploaded threeNumberAverage.java
+Emil uploaded java_Basics.txt
+Soham uploaded NumbersAndMath.java
+Rajat uploaded Variable Finished that i was supposed to do but got the wrong .docx
+Soham uploaded DataBlender.java
+Dhruv uploaded NumbersAndMath.class
+Kshitij uploaded NumbersAndMath.java
+Emil uploaded java_Basics2.txt
+Dhruv uploaded Worksheet11.java
+Aayush uploaded worksheet_1java.txt
+Aayush uploaded worksheet1.1_ScannerPractice.txt
+Mihir uploaded scanner practice.txt
+Rajat uploaded major_grade.java
+Emil uploaded GreatestNumber.java
+Emil uploaded PositiveOrNegative.java
+Emil uploaded Weekday.java
+Emil uploaded Salary.java
+Kshitij uploaded greatest.java
+Arman uploaded If Statement Worksheet.docx
+Kshitij uploaded PosOrNeg.java
+Arman uploaded Greater.java
+Kshitij uploaded weekday.java
+Rajat uploaded greatestnum.java
+Arman uploaded posOrNeg.java
+Rajat uploaded Day.java
+Arman uploaded Weekday.java
+Kshitij uploaded salaryComputing.java
+Adi uploaded greatest.txt
+Rajat uploaded Salary.java
+Arman uploaded SalaryComputing.java
+Soham uploaded greatestNumber.java
+Rajat uploaded Positiveornegative.java
+Kshitij uploaded ifstatementshw.txt
+Aayush uploaded if_statementJava.txt
+Soham uploaded userInputNegativeOrPositive.java
+Adi uploaded PosorNeg.java
+Soham uploaded weekdays.java
+Adi uploaded Weekday.java
+Aayush uploaded Hello_World.class
+Adi uploaded greatest.java
+Adi uploaded ifws2.pdf
+Rajat uploaded If worksheet. Answers..txt
+Prineet uploaded DisplayArrow.java
+Prineet uploaded UserPreference.java
+Dhruv uploaded PosorNeg.java
+Prineet uploaded scannerPracticeResults.txt
+Prineet uploaded Basic worksheet answer sheet.txt
+Dhruv uploaded if statement worksheet.java
+Prineet uploaded Datablender.java
+Dhruv uploaded greatest.java
+Dhruv uploaded Weekday.java
+Sahil uploaded Greatest.java
+Sahil uploaded PosOrNeg.java
+Sahil uploaded Weekday.java
+Sahil uploaded SalaryComputing.java
+Emil uploaded Voting.java
+Arman uploaded votingAge.java
+Soham uploaded voteEligibilaty.java
+Aayush uploaded Age_InfoHW.class
+Kshitij uploaded AgeInfo.java
+Prineet uploaded VoterAge.java
+Rajat uploaded Drawing.java
+Sahil uploaded AgeInfo.java
+Arman uploaded MethodsHW.java
+Arman uploaded MathCalculator.java
+Rajat uploaded Homework 1-20.txt
+Aayush uploaded Methods_HW.txt
+Emil uploaded MathCalculator.java
+Kshitij uploaded MethodsWorksheet.txt
+Rajat uploaded Calculator.class
+Kshitij uploaded MathCalculator.java
+Sahil uploaded MathCalculator.java
+Sahil uploaded methods_wks.txt
+Kshitij uploaded loopshomework1.java
+Prineet uploaded PosNeg.java
+Arman uploaded Repitition.java
+Arman uploaded Loops Worksheet.docx
+Emil uploaded Password.java
+Prineet uploaded Greatest.java
+Kshitij uploaded LoopsQuestions.txt
+Prineet uploaded SyntaxCheck.java
+Soham uploaded mathCalculator.java
+Prineet uploaded WeekDay.java
+Soham uploaded userNAme.java
+Soham uploaded loops.txt
+Aayush uploaded codingBinaryHW.txt
+Arman uploaded Binary Addition.docx
+Sahil uploaded BinaryAdditionAndSubtraction.txt
+Aayush uploaded BinaryHW.txt
+Arman uploaded BinaryConverter.java
+Sahil uploaded BinaryAndOtherNumbersConversionWorksheet.txt
+Aayush uploaded conversionWorksheetHW.txt
+Sahil uploaded BinaryConversion.txt
+Arman uploaded binaryNumsWksheet (1) (1).doc
+Kshitij uploaded BinaryAdditionAndSubtraction.txt
+Kshitij uploaded binaryandothernumbersconversionworksheet.txt
+Kshitij uploaded DecimalToBinary2.java
+Kshitij uploaded ArrayWksht1.txt
+Arman uploaded Arrays Worksheet 1.docx
+Sahil uploaded BasesConversions.java
+Arman uploaded Array Review Worksheet.docx
+Rajat uploaded Homework array.txt
+Arman uploaded BaseConverter.java
+Emil uploaded Battleship.java
+Arman uploaded javaw.exe
+Aayush uploaded BattleshipCodingHW.txt
+Aayush uploaded arrayworksheet1HW.txt
+Aayush uploaded arraysworksheet2.txt
+Sahil uploaded BattleshipGame.java
+Rajat uploaded Battleship.java
+Kshitij uploaded Battleship.java
+Kshitij uploaded ArrayWksht2.txt
+Soham uploaded battleShip.java
+Arman uploaded Battleship.java
+Sahil uploaded MovieEditor.java
+Sahil uploaded Ch4_Worksheet_Classes.doc
+Arman uploaded MovieTheater.java
+Arman uploaded Class Worksheet 1.docx
+Arman uploaded Ch4_Worksheet_Classes.doc
+Soham uploaded moviesAssignments.java
+Arman uploaded MovieTheater.java
+Arman uploaded Hangman.java
+Kshitij uploaded HangmanMain.java
+Rajat uploaded Hangman.js
+Sahil uploaded Hangman.java
+Arman uploaded Hangman.java
+Kshitij uploaded HANGMAN.txt
+Sahil uploaded HangmanFinal.txt
+Kshitij uploaded MovieTheater.java

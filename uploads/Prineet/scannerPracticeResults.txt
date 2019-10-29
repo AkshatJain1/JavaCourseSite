@@ -1,0 +1,19 @@
+
+-----------------------Scanner Practice Results 1-----------------------------
+Enter an integer: 1
+Enter a double value: 2.14
+
+Enter an integer: 4
+Enter a double value: 0.86
+
+3.14 is an approximation of PI
+3.14 is also an approximation of PI
+------------------------ Scanner Practice Results 2----------------------------
+	You’ve just received your first paycheck, and
+you want to use it to take friends to a movie!
+Enter the amount of your paycheck: 136.50
+
+Enter the price of a movie: 6.75
+
+You can take 20 friends to the movies!
+-------------------------Scanner Practice Results 4	----------------------------

@@ -1,0 +1,10 @@
+Write a program that takes in two Strings from the user.
+
+Then, find out which letters the Strings have in common with each other and print them out.
+
+Example:
+
+What is your first word: Forks
+What is your second word: Spoons
+
+There are two letters in common: o,s

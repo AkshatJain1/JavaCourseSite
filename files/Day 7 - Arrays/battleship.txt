@@ -1,0 +1,24 @@
+Major - This will be your hardest program yet.
+
+You will code a game of battleship against the computer. 
+
+
+
+ *create an array of 5x5 spots in a theoretical ocean.
+
+ *set all values to X 	
+
+ *set some random spots to be "ships". These spots cannot be duplicated, if they are, randomize again			
+ *keep asking the user to guess the row, col	
+	
+ *they can't enter something that's not valid
+
+ * if they miss, set the value at that spot to a M
+
+ *if they hit, set the value at that spot to a H
+
+ *when they hit all the ships that they need, they are done and they won
+
+ *you lose when everything but at least one ship is M 
+
+ *Print out the number of turns it took them to hit all the ships if they won.

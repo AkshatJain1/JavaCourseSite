@@ -1,0 +1,52 @@
+major - You are a computer scientist at Google. The Human Resources department has asked you to make a program that computes an employee's salary BASED ON A GIVEN RATING.
+
+Rating            Salary
+
+A+             	  95 000
+
+A 		  90 000
+
+A- 		  85 000
+
+B+  		  80 000
+
+B		  75 000
+
+B-		  70 000
+
+C+     		  65 000
+
+C 		  60 000
+
+C- 		  55 000
+
+And So On ... 
+
+
+Ask if the employee should recieve a bonus. If the user enters yes or Yes, ask how much ( in terms of thousands ), and add it to their base salary.
+
+
+EXAMPLE 1:
+
+What is the name of the employee: James
+
+Enter the rating you would give for James: A-
+
+Should James recieve a bonus: Yes
+How much ( in thousands ): 6
+
+James' salary is $91 000.
+
+EXAMPLE 2:
+
+What is the name of the employee: Nadia
+
+Enter the rating you would give for Nadia: D
+
+Should Nadia recieve a bonus: no
+
+
+Nadia's salary is $45 000.
+
+
+

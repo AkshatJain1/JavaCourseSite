@@ -1,0 +1,16 @@
+1a.int
+1b.int
+1c.boolean
+1d.char
+1e.boolean
+3.output1--Midpoint: (18.7, 38.1)
+output2--38.1
+4.output1--13
+output2--11
+output3--9
+output4--2
+5.output1--G
+output2--o
+output3--NUL
+output4--d
+output5--"

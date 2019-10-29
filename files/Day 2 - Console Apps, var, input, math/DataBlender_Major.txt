@@ -1,0 +1,13 @@
+major grade - write an IN-DEPTH *user-friendly* application, called DataBlender.
+
+You will ask the user for all 4 primitive data types and String.
+
+It is up to you to use operations to mix and match and come up with a
+result that is completely different than what the user entered.
+
+In the comments, please describe the technique that you used.
+
+You will submit the code to me tomorrow and be graded based on the amount of 
+*effort*, usability and variety that you include.
+
+Also it has to be cool.

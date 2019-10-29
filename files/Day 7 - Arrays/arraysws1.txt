@@ -1,0 +1,48 @@
+Given the following:
+
+      int i = 3;
+      int [] arr = {10,15,7,20,11,2};
+      int x = -1;
+      int y = 100;
+
+Show the values in x and y after executing each of the following:
+
+1.   x = arr[3];
+
+
+2.   x = 2 * arr[0];
+
+
+3.   x = arr[1] + arr[2];
+
+
+4.   x = arr[i] + i;
+     y = x + a[5];
+
+
+5.   x = arr[i] + 1;
+     y = arr[i+1];
+
+
+Given the following array:
+
+      int[] a = new int[10];
+
+Write a loop to do each of the following:
+
+
+6.   Add 1 to every element of a.
+
+
+7.   Count the number of negative numbers in a.
+
+
+8.   Create a new array b which is the same size as a, and copy all elements
+     from a into b.
+
+
+9.   Print the elements of a in reverse order.
+
+
+10.  Count the number of elements in a that have values between 10 and
+     20 inclusive.

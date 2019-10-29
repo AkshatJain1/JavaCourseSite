@@ -1,0 +1,84 @@
+MAIN CLASS
+
+//import Scanner
+
+public class Main
+{
+	public static void main(String[] args)
+	{
+		//creates a HangmanGame
+		
+		//enters a loop that:
+			//prints the sentence
+			//prints their guessed letters
+			//prints the amount of guesses they have left
+			//
+			//asks them to guess a letter	
+			//keep looping this if they already guessed it
+			//
+			//call guess(letter) from HangmanGame
+			//if guess(letter) returns true
+				//tell user that they guessed right
+				//otherwise tell them they guessed wrong
+			//
+			//
+			//exit loop 
+				//if won() returns true
+					//tell them they won
+				//or if guessesLeft() returns 0 
+					//tell them they lost 
+			 
+			
+	}
+	
+}
+
+HANGMANGAME FILE
+
+		//import ArrayList
+
+public class HangmanGame
+	{
+	//class attributes
+		//final MAX_GUESSES = 6; 
+
+	/*instance attributes
+		Character ArrayList for your sentence	
+		Character ArrayList for their letter guesses
+		int wrongGuesses;
+		
+	*/
+	
+	//constructor
+		//intializes arrayLists
+		//sets wrongGuesses to zero
+	
+	//methods
+		//accessors and mutators for instance attributes
+		
+		//other methods
+			//guess(char letter)
+				// returns true if letter is in the sentence
+				//returns false if it is not, increases wrongGuesses
+				//adds letter to guesses
+			//isGuessed(char letter)
+				//returns true if letter is already guessed
+				//returns false if letter isn't already guessed
+				
+			//sentence()
+				//returns the sentence that the user is going to see
+				//Hint: go through each Character in your sentence
+					//if the letter is in the guessedLetters ArrayList
+						//add it to an ongoing String
+					//otherwise if its not in guessedLetters
+						//, add an underscore to the ongoing string
+			
+			//guessesLeft
+				//returns the number of guesses they have left
+				
+			//won()
+				//returns true if sentence() doesn't have any underscores
+				//else returns false. they did not win
+		
+	
+} 

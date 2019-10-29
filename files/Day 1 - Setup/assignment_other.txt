@@ -1,0 +1,13 @@
+other - Tell me about yourself.
+
+1. Why did you join this class?
+
+2. What do you hope to gain from this class?
+
+3. Do you think this class will be fun?
+
+4. What do you want to do in the future? Computer Science...?
+
+BONUS (15 pts): 
+5. Give me 3 fun facts about the Computer Science industry. 
+	

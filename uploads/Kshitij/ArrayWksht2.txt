@@ -1,0 +1,66 @@
+Name_Kshitij_Kapoor___________________
+
+Array Review Worksheet
+
+1. What is an array in Java?
+
+	It's a data structure which stores multiple values.
+
+2. Declare a 2-dimensional array called table of base type int with 4 rows and 5
+columns in each row.
+
+	int[][] table = new int[4][5];
+
+3. Write two printArray methods such that the method name is overloaded. One
+method should print a 1D array and the other should print a 2D array.
+
+	1D -
+	
+	public static void printArray(int[] arr) {
+		for (int i = 0; i < arr.length; i++) {
+			System.out.print(arr[i] + " ");
+		}
+	}
+		
+	2D - 
+	
+	public static void printArray(int[][] arr) {
+		for (int r = 0; r < arr.length; r++)
+      	  	{
+            	for(int c = 0; c < arr[0].length; c++)
+            	{
+                	System.out.print(arr[r][c] + " ");
+            	}
+            	System.out.println();
+        	}
+	}
+
+4. Write some Java code that will declare an array named entry that has length 3,
+has SalesAssociate as its base type, and is filled with 3 identical records. The
+records use the name “Jane Doe” and sales of $5000. Use a for loop.
+Assume the SalesAssociate class looks like the following:
+
+	public class SalesAssociate
+	{
+		private String name;
+		private double sales;
+		public SalesAssociate(String initialName, double initialSales)
+		{
+  			this.name = initialName;
+  			this.sales = initialSales;
+		}
+	}
+
+	I dont understand this question at all. The private class threw me off.	
+
+5. Consider the list {13, 9, 15, 2}. Show the list after each iteration of the outer
+loop for bubble and selection sorting algorithms.
+
+Bubble     Selection
+13 9 15 2  13 9 15 2
+
+for (int i = 0; i < Bubble.length; i++) {
+	System.out.println(Bubble[i]);
+}
+
+This is basically a guess, I can hardly tell what this question means. Isnt list a keyword in java? And what is a Selection algorithm.

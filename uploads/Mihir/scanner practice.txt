@@ -1,0 +1,10 @@
+1.add an integer:1
+Add a double:2.14
+
+Add an integer:4
+Add a double:l.86
+
+2.You've just recieved your paycheck and you want to take your friends to a movie with it.
+Enter the amount of your paycheck:136.50
+Enter the price of a movie :6.75
+you can take 20 friends to the movies. 

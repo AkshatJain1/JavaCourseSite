@@ -1,0 +1,13 @@
+Worksheet 0.1:Java Basics
+
+1.a=int
+2.b=int or double
+3.c=boolean
+4.d=Char
+5.e=boolean
+
+3.(18.7,38.1)
+
+4.13,11,9,2
+
+5=Go0d!

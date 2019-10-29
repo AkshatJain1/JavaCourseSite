@@ -1,0 +1,16 @@
+1. 1111
+2. F
+3. 111111
+4. 1000000
+5. 1000001
+6. 3F
+7. 40
+8. 41
+9. 204
+10. 461
+11. AB
+12. The bases 16 and 2 are alike because of the system they use. For binary, it uses 2^0, 2^1,
+    and so one to find which numbers in the decimal has 1s or 0s s hexadecimals use 16^0 and so on
+    to find the numbers and letters to make up the hexadecimall form of the given decimal or binary.
+    Also, 4 bits in base 2 is related to 1 base in 16 by in base 2, it would be 2^4, equalling 16, the
+    same as 16^1.

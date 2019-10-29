@@ -1,0 +1,11 @@
+Minor- Take in 3 numbers from the user and print out the greatest number.
+
+Ex:
+
+Enter the first number: 1
+
+Enter the second number: 37
+
+Enter the third number: 92
+
+92 is the biggest number you entered.

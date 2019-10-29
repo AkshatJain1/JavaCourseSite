@@ -1,0 +1,16 @@
+Binary and other number conversion worksheet.
+
+1. 1111
+2. F
+3. 111111
+4. 1000000
+5. 1000001
+6. 3F
+7. 40
+8. 41
+9. 204
+10. 461
+11. AB
+
+12. Every 4 bits in binary is 1 in hexadecimal.
+
